@@ -1,1 +1,1 @@
-# ai_resume
+# ai_based_resume_screening
